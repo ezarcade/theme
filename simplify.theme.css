@@ -44,7 +44,7 @@
 
   /*  Text Color  */
     --text-normal: #000;
-    --channels-default: #616161;
+    --channels-default: #000;
     --interactive-normal: #EAE1DF;
     --interactive-hover: #EAE1DF;
     --interactive-active: #fff;

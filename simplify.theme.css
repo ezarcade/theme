@@ -43,7 +43,7 @@
     --header-secondary: #b9bbbe;
 
   /*  Text Color  */
-    --text-normal: #616161;
+    --text-normal: #000;
     --channels-default: #616161;
     --interactive-normal: #EAE1DF;
     --interactive-hover: #EAE1DF;

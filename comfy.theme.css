@@ -63,6 +63,10 @@
 *   Change the value to "100%" if you want the default one */
 
   --colored-emoji: grayscale(0%);
+  
+  /* Font Family */
+  --font-primary: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-display: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
 
   /* ═══════『 📜 Server/channel list 』═══════ */
 

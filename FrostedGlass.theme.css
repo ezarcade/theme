@@ -11,7 +11,12 @@
 */
 
 @import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
-@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
+
+:root {
+	--font-primary: 'Karla', sans-serif;
+	--font-display: var(--font-primary) !important;
+}
 
 /* BlackBox tags */
 @import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
@@ -63,7 +68,7 @@
     Visit https://fonts.google.com and select one to your liking.
     Now just follow this tutorial: https://imgur.com/a/CNbw7xC
   */
-  --font: 'Lato';
+  --font: 'Karla', sans-serif;
 
   /* Do not touch */
   --update-notice-1: none;
